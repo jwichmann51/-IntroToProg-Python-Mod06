@@ -1,0 +1,6 @@
+Wash,medium
+paint,medium
+dance,high
+sit,high
+code,high
+jump,high
